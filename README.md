@@ -10,7 +10,7 @@ https://realsystem.ru/new/blogs/100583
 
 #KiCad project
 
-- [Kicad project](KiCad/)
+- [KiCad project](KiCad/)
 
 #Source
 
