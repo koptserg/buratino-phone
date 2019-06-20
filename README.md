@@ -4,10 +4,9 @@ Phone based on Atmega328 and SIM800 with TFT touchscreen display and Arduino boo
 ![Prototype](https://realsystem.ru/new/sites/default/files/imagecache/product/img_20190531_194437.jpg)
 ![Prototype](https://realsystem.ru/new/sites/default/files/imagecache/galleryformatter_slide/img_20190523_203713.jpg)
 
-#Build instructions
+#More info
 
-Detailed instructions are available at: 
- https://realsystem.ru/new/blogs/100583
+https://realsystem.ru/new/blogs/100583
 
 #Source
 
