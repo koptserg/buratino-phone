@@ -13,7 +13,7 @@ https://realsystem.ru/new/blogs/100583
 
 - [KiCad project](KiCad/)
 
-#Source
+#Source code
 
 - [BuratinoPhone](BuratinoPhone/)
 - [BuratinoTetris](BuratinoTetris/)
