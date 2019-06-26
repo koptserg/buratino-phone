@@ -15,14 +15,14 @@ https://realsystem.ru/new/blogs/100583
 
 #Source code
 
-- [BuratinoPhone](BuratinoPhone/)
-- [BuratinoTetris](BuratinoTetris/)
-- [BuratinoBreakout](BuratinoBreakout/)
+- [BuratinoPhone](BuratinoPhone/) https://youtu.be/XU4-bb_q9Ig
+- [BuratinoTetris](BuratinoTetris/) https://youtu.be/fjvIASpnl2U
+- [BuratinoBreakout](BuratinoBreakout/) https://youtu.be/2zxG_oKdt0Y
 
 #Contributing
 
 Feel free to make this project better by contributing with source code, improvements, bug reports, fixes, new games, etc.
 
-<oembed>https://youtu.be/XU4-bb_q9Ig</oembed>
-<oembed>https://youtu.be/2zxG_oKdt0Y</oembed>
-<oembed>https://youtu.be/fjvIASpnl2U</oembed>
+https://youtu.be/XU4-bb_q9Ig
+https://youtu.be/2zxG_oKdt0Y
+https://youtu.be/fjvIASpnl2U
