@@ -7,8 +7,8 @@ Phone based on Atmega328 and SIM800C with TFT touchscreen display and Arduino bo
 
 #More info
 
-https://realsystem.ru/new/blogs/100583
-https://habr.com/ru/post/457790/
+- https://realsystem.ru/new/blogs/100583
+- https://habr.com/ru/post/457790/
 
 #KiCad project
 
