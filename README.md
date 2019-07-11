@@ -19,6 +19,7 @@ Phone based on Atmega328 and SIM800C with TFT touchscreen display and Arduino bo
 - [BuratinoPhone](BuratinoPhone/)            https://youtu.be/XU4-bb_q9Ig
 - [BuratinoTetris](BuratinoTetris/)          https://youtu.be/fjvIASpnl2U
 - [BuratinoBreakout](BuratinoBreakout/)      https://youtu.be/2zxG_oKdt0Y
+- [BuratinoFlappy](BuratinoFlappy/)      https://youtu.be/Fy7Xq8D3JLE
 
 #Contributing
 
